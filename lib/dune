@@ -1,2 +1,3 @@
 (library
- (name counting_camels))
+ (name counting_camels)
+ (modules read_list))

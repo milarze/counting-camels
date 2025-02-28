@@ -1,4 +1,0 @@
-(executable
- (public_name counting_camels)
- (name main)
- (libraries counting_camels))
